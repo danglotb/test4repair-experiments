@@ -1,5 +1,7 @@
 import unittest
-from parser import *
+
+from src.log2json.parser import *
+
 
 class JSONParserTest(unittest.TestCase):
 
